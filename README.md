@@ -29,7 +29,7 @@ La fase di acquisizione dei dati è stata realizzata utilizzando due API distint
 * **Weather API**: utilizzata per raccogliere dati meteorologici (città, temperatura, condizione, umidità, velocità del vento) per 21 capitali europee.
 * **IQAir AirVisual API**: utilizzata per acquisire dati sulla qualità dell'aria (città, stato, paese, AQI, inquinanti).
 
-Poiché le versioni gratuite di entrambe le API non offrono accesso a dati storici, è stato implementato uno script automatico che acquisisce quotidianamente i dati per costruire progressivamente un dataset storico integrato.
+Poiché le versioni gratuite di entrambe le API non offrono accesso a dati storici, è stato implementato uno script che acquisisce quotidianamente i dati per costruire progressivamente un dataset storico integrato.
 
 ## Integrazione Dati
 
