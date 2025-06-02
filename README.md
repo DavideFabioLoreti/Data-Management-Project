@@ -20,14 +20,14 @@ Questo progetto si concentra sull'analisi dell'impatto delle condizioni meteorol
 
 ## Introduzione
 
-Il progetto mira ad analizzare i dati meteorologici e gli indici di qualità dell'aria delle capitali europee per comprendere come le variazioni climatiche possano influenzare direttamente i livelli di qualità dell'aria in queste città[cite: 5, 13]. Vengono utilizzati parametri come temperatura, umidità e modelli di vento per comprendere il contesto climatico più ampio[cite: 7]. Lo studio evidenzia l'importanza di comprendere l'interazione tra clima e inquinamento atmosferico, dato che il tempo può influenzare significativamente la dispersione degli inquinanti e gli alti livelli di inquinamento atmosferico hanno effetti negativi sulla salute pubblica[cite: 10, 11, 12].
+Il progetto mira ad analizzare i dati meteorologici e gli indici di qualità dell'aria delle capitali europee per comprendere come le variazioni climatiche possano influenzare direttamente i livelli di qualità dell'aria in queste città[cite: 5, 13]. Vengono utilizzati parametri come temperatura, umidità e modelli di vento per comprendere il contesto climatico più ampio[cite: 7]. Lo studio evidenzia l'importanza di comprendere l'interazione tra clima e inquinamento atmosferico, dato che il tempo può influenzare significativamente la dispersione degli inquinanti e gli alti livelli di inquinamento atmosferico hanno effetti negativi sulla salute pubblica [cite: 10, 11, 12].
 
 ## Acquisizione Dati
 
-La fase di acquisizione dei dati è stata realizzata utilizzando due API distinte[cite: 16]:
+La fase di acquisizione dei dati è stata realizzata utilizzando due API distinte [cite: 16]:
 
 * **Weather API**: utilizzata per raccogliere dati meteorologici (città, temperatura, condizione, umidità, velocità del vento) per 21 capitali europee[cite: 16, 17, 18, 19].
-* **IQAir AirVisual API**: utilizzata per acquisire dati sulla qualità dell'aria (città, stato, paese, AQI, inquinanti)[cite: 19, 20, 21, 22].
+* **IQAir AirVisual API**: utilizzata per acquisire dati sulla qualità dell'aria (città, stato, paese, AQI, inquinanti) [cite: 19, 20, 21, 22].
 
 Poiché le versioni gratuite di entrambe le API non offrono accesso a dati storici, è stato implementato uno script automatico che acquisisce quotidianamente i dati per costruire progressivamente un dataset storico integrato[cite: 22, 23, 24, 25].
 
