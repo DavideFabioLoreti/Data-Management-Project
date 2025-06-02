@@ -20,7 +20,7 @@ Questo progetto si concentra sull'analisi dell'impatto delle condizioni meteorol
 
 ## Introduzione
 
-Il progetto mira ad analizzare i dati meteorologici e gli indici di qualità dell'aria delle capitali europee per comprendere come le variazioni climatiche possano influenzare direttamente i livelli di qualità dell'aria in queste città. Vengono utilizzati parametri come temperatura, umidità e modelli di vento per comprendere il contesto climatico più ampio. Lo studio evidenzia l'importanza di comprendere l'interazione tra clima e inquinamento atmosferico, dato che il tempo può influenzare significativamente la dispersione degli inquinanti e gli alti livelli di inquinamento atmosferico hanno effetti negativi sulla salute pubblica.
+Il progetto mira ad analizzare i dati meteorologici e gli indici di qualità dell'aria delle capitali europee per comprendere come le variazioni climatiche possano influenzare direttamente i livelli di qualità dell'aria in queste città. Vengono utilizzati parametri come temperatura e umidità  per comprendere il contesto climatico più ampio. Lo studio evidenzia l'importanza di comprendere l'interazione tra clima e inquinamento atmosferico, dato che il tempo può influenzare significativamente la dispersione degli inquinanti e gli alti livelli di inquinamento atmosferico hanno effetti negativi sulla salute pubblica.
 
 ## Acquisizione Dati
 
